@@ -7,6 +7,9 @@
   <a href="nodejs.org">
     <img src="https://img.shields.io/badge/node-v16.15.1-89C141?logo=node.js&logoColor=white&style=flat-square" />
   </a>
+  <a href="expressjs.org">
+    <img src="https://img.shields.io/badge/express-v4.17.1-353535?logo=express&logoColor=white&style=flat-square" />
+  </a>
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react-v17.0.2-61DAFB?logo=react&logoColor=white&style=flat-square" />
   </a>
