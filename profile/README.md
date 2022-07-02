@@ -1,4 +1,14 @@
-# Gonggoo 프로젝트
+# Gonggoo 프로젝트 
+<a href="gbsw-gonggoo.github.io">
+  <img src="https://img.shields.io/badge/%F0%9F%92%A1%20gonggoo-introduce-00ACD7.svg?style=flat-square" />
+</a>
+<a href="nodejs.org">
+  <img src="https://img.shields.io/badge/node-v16.15.1-89C141?logo=node.js&logoColor=white&style=flat-square" />
+</a>
+<a href="https://reactjs.org/">
+  <img src="https://img.shields.io/badge/react-v17.0.2-61DAFB?logo=react&logoColor=white&style=flat-square" />
+</a>
+
 공동구매할 학생을 이어주는 프로젝트입니다.
 
 ## 프로젝트 개발 목적
