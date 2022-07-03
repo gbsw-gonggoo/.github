@@ -3,6 +3,8 @@
   <a href="https://gbsw-gonggoo.github.io/">
     <img src="https://img.shields.io/badge/%F0%9F%92%A1%20gonggoo-introduce-00ACD7.svg?style=flat-square" />
   </a>
+  <br/><br/>
+  Made with
   <br/>
   <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/node-v16.15.1-89C141?logo=node.js&logoColor=white&style=flat-square" />
@@ -15,7 +17,7 @@
   </a>
 </p>
 <p align="center">
-  공동구매할 학생을 이어주는 프로젝트입니다.
+  공동구매할 학생을 이어주는 프로젝트
 </p>
 <br/>
 <br/>
