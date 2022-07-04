@@ -3,17 +3,20 @@
   <a href="https://gbsw-gonggoo.github.io/">
     <img src="https://img.shields.io/badge/%F0%9F%92%A1%20gonggoo-introduce-00ACD7.svg?style=flat-square" />
   </a>
-  <br/><br/>
-  Made with
   <br/>
+</p>
+<p align="center">
+  Made with
+</p>
+<p align="center">
   <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/node-v16.15.1-89C141?logo=node.js&logoColor=white&style=flat-square" />
+    <img width="125px" height="23px" src="https://img.shields.io/badge/node-v16.15.1-89C141?logo=node.js&logoColor=white&style=flat-square" />
   </a>
   <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/express-v4.17.1-353535?logo=express&logoColor=white&style=flat-square" />
+    <img width="125px" height="23px" src="https://img.shields.io/badge/express-v4.17.1-353535?logo=express&logoColor=white&style=flat-square" />
   </a>
   <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/react-v17.0.2-61DAFB?logo=react&logoColor=white&style=flat-square" />
+    <img width="125px" height="23px" src="https://img.shields.io/badge/react-v17.0.2-61DAFB?logo=react&logoColor=white&style=flat-square" />
   </a>
 </p>
 <p align="center">
